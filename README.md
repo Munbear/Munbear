@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=AntDesign&logoColor=white">
   </strong>
   <h2>
-    The Tack that i've used at least once
+    The Tach that i've used at least once
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
