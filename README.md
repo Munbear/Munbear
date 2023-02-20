@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=random&height=200&section=header&text=Dowon%20&fontSize=60" />
-  <h3>Hi, there</h2>
+<!--   <img src="https://capsule-render.vercel.app/api?type=rounded&color=random&height=200&section=header&text=Dowon%20&fontSize=60" /> -->
+<!--   <h3>Hi, there</h2> -->
   <h3>i'm Front End Developer<h2>
-  <strong> 
+<!--   <strong> 
     My Tech Stack 
     <br/>
     <br/>
@@ -28,6 +28,6 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <h2>
+  <h2> -->
 
 </div>
