@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://capsule-render.vercel.app/api?type=rounded&color=random&height=200&section=header&text=Dowon%20&fontSize=60" /> -->
 <!--   <h3>Hi, there</h2> -->
-  <h3>i'm Front End Developer<h2>
+  <h3>Hi<h2>
 <!--   <strong> 
     My Tech Stack 
     <br/>
